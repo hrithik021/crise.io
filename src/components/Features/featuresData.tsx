@@ -29,9 +29,7 @@ const featuresData: Feature[] = [
     ),
     title: "Crafted for Coaches",
     paragraph:
-      "Access in-depth fighter analytics, training feedback loops, and opponent scouting tools. Crise.io empowers coaches with data-driven strategies to tailor game plans, manage fatigue, and make more informed decisions — before and during the fight."
-
-",
+      "Access in-depth fighter analytics, training feedback loops, and opponent scouting tools. Crise.io empowers coaches with data-driven strategies to tailor game plans, manage fatigue, and make more informed decisions — before and during the fight.",
   },
   {
     id: 1,
