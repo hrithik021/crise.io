@@ -62,40 +62,42 @@ const Pricing = () => {
             packageName="Lite"
             price={isMonthly ? "40" : "120"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Perfect for amateur fighters or early-stage enthusiasts."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="inactive" />
-            <OfferList text="Free Lifetime Updates" status="inactive" />
+            <OfferList text="Real-time Performance Dashboard" status="active" />
+            <OfferList text="Basic Fight Analytics" status="active" />
+            <OfferList text=" Training Logs & Session Reports" status="active" />
+            <OfferList text=" Access on Web & Mobile" status="active" />
+            <OfferList text=" No Opponent Scouting" status="inactive" />
+            <OfferList text="No AI Predictions" status="inactive" />
           </PricingBox>
           <PricingBox
             packageName="Basic"
             price={isMonthly ? "399" : "789"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Ideal for dedicated fighters and independent coaches."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="active" />
-            <OfferList text="Free Lifetime Updates" status="inactive" />
+            <OfferList text="Everything in Lite" status="active" />
+            <OfferList text=" Opponent Scouting Tools" status="active" />
+            <OfferList text=" Advanced Punch & Kick Breakdown" status="active" />
+            <OfferList text="Personalized Insights with AI" status="active" />
+            <OfferList text=" Commercial Use" status="active" />
+            <OfferList text=" Email + Chat Support" status="inactive" />
           </PricingBox>
           <PricingBox
             packageName="Plus"
             price={isMonthly ? "589" : "999"}
             duration={isMonthly ? "mo" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Built for professional camps, broadcasters, or large training facilities."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
-            <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="active" />
-            <OfferList text="Free Lifetime Updates" status="active" />
+            <OfferList text=" Everything in Basic" status="active" />
+            <OfferList text="Team & Athlete Management" status="active" />
+            <OfferList text="Broadcaster Data Feed Access" status="active" />
+            <OfferList text=" API Integrations" status="active" />
+            <OfferList text="Priority Support" status="active" />
+            <OfferList text="Dedicated Onboarding" status="active" />
+            <OfferList text="Custom Branding Options" status="active" />
+            <OfferList text="Use on Unlimited Projects" status="active" />
           </PricingBox>
         </div>
       </div>
