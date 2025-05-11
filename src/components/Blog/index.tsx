@@ -10,7 +10,7 @@ const Blog = () => {
     >
       <div className="container">
         <SectionTitle
-          title="📝 Our Latest Blogs"
+          title="📰 Latest from the Crise.io Blog"
           paragraph="Explore insights, training tips, and AI innovations shaping the future of combat sports."
           center
         />

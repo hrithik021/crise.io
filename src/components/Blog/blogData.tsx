@@ -17,12 +17,12 @@ const blogData: Blog[] = [
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "🧠 Best AI Tools to Analyze Fight Performance",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Explore the most effective UI and data components built for combat — enabling seamless access to stats, visualizations, and performance breakdowns.",
     image: "/images/blog/blog-02.jpg",
     author: {
-      name: "Musharof Chy",
+      name: "Hrithik",
       image: "/images/blog/author-02.png",
       designation: "Content Writer",
     },
@@ -31,9 +31,9 @@ const blogData: Blog[] = [
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "🥊 9 Ways to Improve Your Fight IQ with Data",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "From real-time feedback to historical comparisons — learn how fighters and coaches use Crise.io insights to sharpen strategy and reaction time.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",
