@@ -35,15 +35,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="📘 Backed by rich documentation" />
-                    <List text="🛠️ Designed for developers, athletes & analysts" />
-                    <List text="🕐 Lifetime usage with free updates" />
+                    <List text="Backed by rich documentation" />
+                    <List text="Designed for developers, athletes & analysts" />
+                    <List text="Lifetime usage with free updates" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="🎯 Optimized for high-performance applications" />
+                    <List text="Optimized for high-performance applications" />
                     <List text="Rich documentation" />
-                    <List text="⚙️ Built by Hrithik Sharma" />
+                    <List text="Built by Hrithik Sharma" />
                   </div>
                 </div>
               </div>

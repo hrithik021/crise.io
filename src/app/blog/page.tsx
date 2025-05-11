@@ -15,7 +15,7 @@ const Blog = () => {
     <>
       <Breadcrumb
         pageName="Blog Grid"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="Crise.io is built at the intersection of combat sports and cutting-edge AI. Here we will post articles, blogs, and insights on the latest trends in fight performance analysis, training techniques, and the future of combat sports."
       />
 
       <section className="pb-[120px] pt-[120px]">
