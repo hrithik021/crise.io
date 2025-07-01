@@ -12,14 +12,14 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/logo-2.svg"
+                    src="/crise.io/images/logo/logo-2.svg"
                     alt="logo"
                     className="w-full dark:hidden"
                     width={140}
                     height={30}
                   />
                   <Image
-                    src="/images/logo/logo.svg"
+                    src="/crise.io/images/logo/logo.svg"
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={140}
@@ -42,7 +42,7 @@ const Footer = () => {
                       height="18"
                       viewBox="0 0 22 22"
                       fill="none"
-                      xmlns="./public/images/logo.svg/"
+                      xmlns="/crise.io/images/logo/logo-3.svg"
                     >
                       <path
                         d="M12.1 10.4939V7.42705C12.1 6.23984 13.085 5.27741 14.3 5.27741H16.5V2.05296L13.5135 1.84452C10.9664 1.66676 8.8 3.63781 8.8 6.13287V10.4939H5.5V13.7183H8.8V20.1667H12.1V13.7183H15.4L16.5 10.4939H12.1Z"
